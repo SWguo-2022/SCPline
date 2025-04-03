@@ -1,0 +1,10 @@
+name: singlecellmultiomicsanalysisshinyapp
+title:
+username: gulk2y-levin-du
+account: gulk2y-levin-du
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12605086
+bundleId: 9434822
+url: https://gulk2y-levin-du.shinyapps.io/singlecellmultiomicsanalysisshinyapp/
+version: 1
